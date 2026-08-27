@@ -1,52 +1,52 @@
 {
-  "bigBrotherCabinetTaps" : 5,
-  "bigBrotherTapInk" : 5,
-  "boardLadder" : [
+  "bigBrotherCabinetTaps": 5,
+  "bigBrotherTapInk": 5,
+  "boardLadder": [
     {
-      "columns" : 3,
-      "level" : 0,
-      "rows" : 4
+      "columns": 3,
+      "level": 0,
+      "rows": 4
     },
     {
-      "columns" : 3,
-      "level" : 2,
-      "rows" : 5
+      "columns": 3,
+      "level": 2,
+      "rows": 5
     },
     {
-      "columns" : 4,
-      "level" : 7,
-      "rows" : 5
+      "columns": 4,
+      "level": 7,
+      "rows": 5
     },
     {
-      "columns" : 4,
-      "level" : 12,
-      "rows" : 6
+      "columns": 4,
+      "level": 12,
+      "rows": 6
     },
     {
-      "columns" : 5,
-      "level" : 22,
-      "rows" : 6
+      "columns": 5,
+      "level": 22,
+      "rows": 6
     },
     {
-      "columns" : 5,
-      "level" : 31,
-      "rows" : 7
+      "columns": 5,
+      "level": 31,
+      "rows": 7
     },
     {
-      "columns" : 6,
-      "level" : 44,
-      "rows" : 7
+      "columns": 6,
+      "level": 44,
+      "rows": 7
     },
     {
-      "columns" : 7,
-      "level" : 67,
-      "rows" : 7
+      "columns": 7,
+      "level": 67,
+      "rows": 7
     }
   ],
-  "capacityUpgradeBase" : 25,
-  "capacityUpgradeGrowth" : 4,
-  "expBeyondGrowth" : 1.5,
-  "expThresholds" : [
+  "capacityUpgradeBase": 25,
+  "capacityUpgradeGrowth": 4,
+  "expBeyondGrowth": 1.5,
+  "expThresholds": [
     20,
     40,
     100,
@@ -59,35 +59,35 @@
     3000,
     4400
   ],
-  "goalRewards" : {
-    "first-grind" : 250,
-    "first-merge" : 2,
-    "reach-t3" : 5,
-    "reach-t4" : 10,
-    "reach-t6" : 25,
-    "value-150" : 1000
+  "goalRewards": {
+    "first-grind": 250,
+    "first-merge": 2,
+    "reach-t3": 5,
+    "reach-t4": 10,
+    "reach-t6": 25,
+    "value-150": 1000
   },
-  "inkCapBase" : 200,
-  "manaEXP" : [
+  "inkCapBase": 200,
+  "manaEXP": [
     5,
     10,
     25,
     60,
     150
   ],
-  "manaPoolBasePrice" : 150,
-  "manaPoolCaps" : [
+  "manaPoolBasePrice": 150,
+  "manaPoolCaps": [
     2000,
     4000,
     8000,
     14000,
     20000
   ],
-  "manaPoolPriceGrowth" : 1,
-  "minBuild" : 0,
-  "offlineCapSeconds" : 7200,
-  "offlineEfficiency" : 0.5,
-  "paperworkEXP" : [
+  "manaPoolPriceGrowth": 1,
+  "minBuild": 0,
+  "offlineCapSeconds": 7200,
+  "offlineEfficiency": 0.5,
+  "paperworkEXP": [
     2,
     3,
     8,
@@ -98,7 +98,7 @@
     650,
     1000
   ],
-  "paperworkInkPer10s" : [
+  "paperworkInkPer10s": [
     0,
     0,
     1,
@@ -109,13 +109,13 @@
     13,
     16
   ],
-  "paperworkSpawnBase" : 10,
-  "schema" : 1,
-  "soulWellPrice" : 500,
-  "soulWellUnlockLevel" : 5,
-  "soulsCapBase" : 25,
-  "soulsCapGrowth" : 1.55,
-  "soulsEXP" : [
+  "paperworkSpawnBase": 10,
+  "schema": 1,
+  "soulWellPrice": 500,
+  "soulWellUnlockLevel": 5,
+  "soulsCapBase": 25,
+  "soulsCapGrowth": 1.55,
+  "soulsEXP": [
     2,
     5,
     12,
@@ -126,10 +126,10 @@
     1000,
     2200
   ],
-  "soulsProductionGrowth" : 2.25,
-  "soulsSpawnBase" : 15,
-  "spawnCostGrowth" : 2.25,
-  "spawnTierChances" : [
+  "soulsProductionGrowth": 2.25,
+  "soulsSpawnBase": 15,
+  "spawnCostGrowth": 2.25,
+  "spawnTierChances": [
     [
       1
     ],
@@ -156,14 +156,14 @@
       0.1
     ]
   ],
-  "startingInk" : 0,
-  "stationCapUnlocks" : [
+  "startingInk": 0,
+  "stationCapUnlocks": [
     4,
     7,
     10
   ],
-  "stationUpgradeBase" : 25,
-  "stationUpgradeGrowth" : 4,
-  "tier1SoulsPerSecond" : 0.1,
-  "version" : 1
+  "stationUpgradeBase": 25,
+  "stationUpgradeGrowth": 4,
+  "tier1SoulsPerSecond": 0.1,
+  "version": 2
 }
