@@ -83,7 +83,7 @@
     14000,
     20000
   ],
-  "manaPoolPriceGrowth" : 2.2,
+  "manaPoolPriceGrowth" : 1,
   "minBuild" : 0,
   "offlineCapSeconds" : 7200,
   "offlineEfficiency" : 0.5,
