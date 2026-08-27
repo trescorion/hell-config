@@ -1,6 +1,6 @@
 {
   "bigBrotherCabinetTaps": 5,
-  "bigBrotherTapInk": 5,
+  "bigBrotherTapInk": 10,
   "boardLadder": [
     {
       "columns": 3,
