@@ -165,5 +165,5 @@
   "stationUpgradeBase": 25,
   "stationUpgradeGrowth": 4,
   "tier1SoulsPerSecond": 0.1,
-  "version": 2
+  "version": 3
 }
