@@ -109,7 +109,7 @@
     13,
     16
   ],
-  "paperworkSpawnBase": 10,
+  "paperworkSpawnBase": 100,
   "schema": 1,
   "soulWellPrice": 500,
   "soulWellUnlockLevel": 5,
