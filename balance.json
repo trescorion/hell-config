@@ -59,14 +59,6 @@
     3000,
     4400
   ],
-  "goalRewards" : {
-    "first-grind" : 250,
-    "first-merge" : 10,
-    "reach-t3" : 50,
-    "reach-t4" : 100,
-    "reach-t6" : 250,
-    "value-150" : 1000
-  },
   "inkCapBase" : 2000,
   "manaEXP" : [
     5,
@@ -169,5 +161,5 @@
   "stationUpgradeInkBase" : 100,
   "stationUpgradeInkGrowth" : 2.5,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 7
+  "version" : 8
 }
