@@ -171,6 +171,10 @@
   "stationUpgradeGrowth" : 2.5,
   "stationUpgradeInkBase" : 100,
   "stationUpgradeInkGrowth" : 2.5,
+  "tapBudgetMax" : 60,
+  "tapGrowthPerLevel" : 1.05,
+  "tapRefillPerSec" : 1,
+  "tapTiredFactor" : 0.2,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 9
+  "version" : 10
 }
