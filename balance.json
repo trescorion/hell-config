@@ -176,5 +176,5 @@
   "tapRefillPerSec" : 1,
   "tapTiredFactor" : 0.2,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 12
+  "version" : 13
 }
