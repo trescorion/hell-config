@@ -93,13 +93,13 @@
   "paperworkInkPer10s" : [
     0,
     0,
-    1,
-    2,
-    4,
-    7,
+    5,
     10,
-    13,
-    16
+    20,
+    35,
+    50,
+    65,
+    80
   ],
   "paperworkSpawnBase" : 20,
   "schema" : 1,
@@ -176,5 +176,5 @@
   "tapRefillPerSec" : 1,
   "tapTiredFactor" : 0.2,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 10
+  "version" : 11
 }
