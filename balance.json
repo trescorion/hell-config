@@ -61,10 +61,10 @@
   ],
   "goalRewards" : {
     "first-grind" : 250,
-    "first-merge" : 2,
-    "reach-t3" : 5,
-    "reach-t4" : 10,
-    "reach-t6" : 25,
+    "first-merge" : 10,
+    "reach-t3" : 50,
+    "reach-t4" : 100,
+    "reach-t6" : 250,
     "value-150" : 1000
   },
   "inkCapBase" : 2000,
@@ -111,8 +111,9 @@
   ],
   "paperworkSpawnBase" : 20,
   "schema" : 1,
+  "secondCurrencyFromStationLevel" : 4,
   "soulWellPrice" : 500,
-  "soulWellUnlockLevel" : 5,
+  "soulWellUnlockLevel" : 8,
   "soulsCapBase" : 100,
   "soulsCapGrowth" : 1.55,
   "soulsEXP" : [
@@ -165,6 +166,8 @@
   ],
   "stationUpgradeBase" : 20,
   "stationUpgradeGrowth" : 2.5,
+  "stationUpgradeInkBase" : 100,
+  "stationUpgradeInkGrowth" : 2.5,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 6
+  "version" : 7
 }
