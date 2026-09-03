@@ -119,6 +119,17 @@
     1000,
     2200
   ],
+  "soulsPer10s" : [
+    0,
+    0,
+    0.5,
+    1,
+    2,
+    3.5,
+    5,
+    6.5,
+    8
+  ],
   "soulsProductionGrowth" : 2.25,
   "soulsSpawnBase" : 30,
   "spawnCostGrowth" : 2.25,
@@ -161,5 +172,5 @@
   "stationUpgradeInkBase" : 100,
   "stationUpgradeInkGrowth" : 2.5,
   "tier1SoulsPerSecond" : 0.1,
-  "version" : 8
+  "version" : 9
 }
